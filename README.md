@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **Darshan0902/Darshan0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://visitcount.itsvg.in/api?id=Darshan0902&label=Profile%20visits%20%3A&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Darshan0902&label=Profile%20visits%20%3A&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
