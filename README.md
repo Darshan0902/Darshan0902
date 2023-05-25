@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=Darshan0902&label=Profile%20visits%20%3A&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan0902&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
