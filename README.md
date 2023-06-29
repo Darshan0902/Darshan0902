@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Darshan0902&theme=midnight-purple)](https://git.io/streak-stats) 
 
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/darshanprabhu09/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/darshanprabhu09/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/darshanprabhu09/discussion)
+
 
 
 
