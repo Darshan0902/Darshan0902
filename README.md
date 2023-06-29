@@ -1,4 +1,5 @@
-# 🎴  **破壊神**  🎴 
+# 🎴  **破壊神**  🎴 ![Darshan0902](https://road-to-kaggle-grandmaster.vercel.app/api/simple/darshanprabhu09)
+
 
 
 
@@ -24,7 +25,6 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=Darshan0902&label=Profile%20visits%20%3A&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-![Darshan0902](https://road-to-kaggle-grandmaster.vercel.app/api/simple/darshanprabhu09)
 
 
 
