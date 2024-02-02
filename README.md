@@ -1,4 +1,4 @@
-🎴  **破壊神**  🎴
+🎴  **破壊神**  🎴 
 
 
 # **Professional Contacts**🍊:
@@ -14,7 +14,5 @@
 
 ## Feel free to reach out for collaborations, discussions, or suggestions. Let's connect and explore opportunities together! 😊
 
-[![](https://visitcount.itsvg.in/api?id=Darshan0902&label=Profile%20visits%20%3A&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-
+[![Profile Visits](https://komarev.com/ghpvc/?username=Darshan0902&color=FF4500)](https://github.com/Darshan0902)
 
