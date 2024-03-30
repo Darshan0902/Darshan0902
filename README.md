@@ -11,7 +11,7 @@
 
 ---
  
-## Feel free to reach out for collaborations, discussions, or suggestions. Let's connect and explore opportunities together!😊
+## Feel free to reach out for collaborations, discussions, or suggestions. Let's connect and explore opportunities together!🦅
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=Darshan0902&color=FF4500)](https://github.com/Darshan0902)
 
