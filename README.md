@@ -10,7 +10,7 @@
 
 - [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%234B0082?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshanprabhu009/) Connect on LinkedIn.
 
-[![Connect on LeetCode](https://img.shields.io/badge/Connect%20on%20LeetCode-%234B0082?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Darshan_999/) Check out more solutions on Leetcode.
+- [![Connect on LeetCode](https://img.shields.io/badge/Connect%20on%20LeetCode-%234B0082?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Darshan_999/) Check out more solutions on Leetcode.
 
 
 ---
